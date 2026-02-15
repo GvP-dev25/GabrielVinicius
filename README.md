@@ -7,16 +7,13 @@
 - Java
 - SQL (MySQL)
 - Git & GitHub
-- Spring Boot (em estudo)
+- JavaScript (em estudo)
 
 # 📂 Projetos em Destaque
-- 🔹 API de Tarefas (CRUD em Java + Spring Boot)
-- 🔹 Sistema de Usuários (Java + SQL)
 - 🔹 Projetos acadêmicos e exercícios práticos
 
 # 📈 Em aprendizado
-- Spring Boot
-- API REST
+- Programação orientada a objeto
 - Boas práticas de código
 
 📫 GitHub: https://github.com/GvP-dev25
